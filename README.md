@@ -10,7 +10,7 @@ _Bu bölüm geliştirme sürecinde doldurulacaktır._
 | Ad Soyad | Rol | Sorumluluk Alanı |
 | --- | --- | --- |
 | _[Ad Soyad]_ | Lider | _Proje yönetimi, koordinasyon ve kod gözden geçirme_ |
-| _[Ad Soyad]_ | Analist | _Gereksinim analizi, veri ve sistem tasarımı_ |
+| _Sümeyye Erbay_ | Analist | _Gereksinim analizi, veri ve sistem tasarımı_ |
 | _[Ad Soyad]_ | Test/Kalite | _Test senaryoları, hata takibi ve kalite güvence_ |
 | _[Ad Soyad]_ | Dokümantasyon/Sunum | _Proje dokümantasyonu, raporlama ve sunum hazırlığı_ |
 
