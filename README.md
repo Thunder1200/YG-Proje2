@@ -12,8 +12,7 @@ _Bu bölüm geliştirme sürecinde doldurulacaktır._
 | _[Ad Soyad]_ | Lider | _Proje yönetimi, koordinasyon ve kod gözden geçirme_ |
 | _Sümeyye Erbay_ | Analist | _Gereksinim analizi, veri ve sistem tasarımı_ |
 | _[Ad Soyad]_ | Test/Kalite | _Test senaryoları, hata takibi ve kalite güvence_ |
-| _[Ad Soyad]_ | Dokümantasyon/Sunum | _Proje dokümantasyonu, raporlama ve sunum hazırlığı_ |
-
+| Fatih Ulupınar | Dokümantasyon/Sunum | _Proje dokümantasyonu, raporlama ve sunum hazırlığı_ |
 ## Kullanılan Teknolojiler
 
 <!-- Projede kullanılan programlama dilleri, kütüphaneler, çerçeveler ve araçlar listelenecektir. -->
